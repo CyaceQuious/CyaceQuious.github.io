@@ -1,5 +1,19 @@
-## Yinze Rong（戎胤泽）
+# _Curriculum Vitae_
 
 #### Education
 
+## Education
+
 Since 08/2023: undergraduate at Tsinghua University, Beijing, China; major: Information and Computing Science
+
+## Research Experience
+
+## Publications
+
+## Selected Awards
+
+2022: **Silver Medal at National Olympiad in Informatics**, *by China Computer Federation*.
+
+## Technical Skills
+
+## Miscellaneous
