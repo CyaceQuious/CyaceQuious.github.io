@@ -1,7 +1,5 @@
 # _Curriculum Vitae_
 
-#### Education
-
 ## Education
 
 Since 08/2023: undergraduate at Tsinghua University, Beijing, China; major: Information and Computing Science
