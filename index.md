@@ -10,7 +10,7 @@ Since 08/2023: undergraduate at Tsinghua University, Beijing, China; major: Info
 
 ## Selected Awards
 
-2022: **Silver Medal at National Olyhmpiad in Informatics**, *by China Computer Federation*.
+2022: **Silver Medal at National Olympiad in Informatics**, *by China Computer Federation*.
 
 ## Technical Skills
 
