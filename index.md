@@ -16,7 +16,7 @@
 
 Advised by Prof. Hao Zhao
 
-- Co-developed a depth estimation diffusion model by fine-tuning FLUX.1, which significantly outperforms other diffusion models.
+- Co-developed a depth estimation diffusion model by fine-tuning FLUX.1-DEV, which significantly outperforms other diffusion models.
 
 ## Publications
 
