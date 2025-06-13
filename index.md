@@ -18,7 +18,12 @@ Advised by Prof. Hao Zhao
 
 - Co-developed a depth estimation diffusion model by fine-tuning FLUX.1-DEV, which significantly outperforms other diffusion models.
 
+- Took part in CVPR2025 Autonomous Grand Challenge e2e driving track, winning the **3rd** place.
+
 ## Publications
+
+2025: **HMAD: Advancing E2E Driving with Anchored Offset Proposals and Simulation-Supervised Multi-target Scoring**, *https://arxiv.org/abs/2505.23129 (technical report of CVPR2025 AGC e2e driving track)*. <br>
+Bin Wang, Pingjun Li, Jinkun Liu, Jun Cheng, Hailong Lei, **Yinze Rong**, Huan-ang Gao, Kangliang Chen, Xing Pan, Weihao Gu
 
 ## Selected Awards and Fellowships
 
