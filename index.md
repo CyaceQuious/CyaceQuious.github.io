@@ -33,6 +33,7 @@ Bin Wang, Pingjun Li, Jinkun Liu, Jun Cheng, Hailong Lei, **Yinze Rong**, Huan-a
 
 2024: **Scholarship for Academic Excellence**, by *Zhili College*.
 
+2025: **Member of 19th _Spark_ Project**, by *Tsinghua University*.
 ## Skills
 
 **Proficiency in English**: a TOEFL score of 104 tested on Feb 15, 2025.
