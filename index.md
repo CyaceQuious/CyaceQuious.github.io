@@ -8,6 +8,12 @@
 
 **Current GPA: 3.98/4.0 Ranking: 1/30**
 
+### 06/2025-08/2025
+
+*Summer Sessions*, University of California, Berkeley
+
+**GPA: 4.00/4.0**
+
 ## Research Experience
 
 ### Since 2024/11
