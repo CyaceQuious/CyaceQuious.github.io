@@ -36,6 +36,10 @@
 
 - 尝试让 VLA 智慧的学习推理间的频率，以应对环境的突发变化
 
+---
+
+我目前的研究兴趣在具身智能的控制和操作策略，致力于让 VLA 给机器人一个更具泛化性、可以 scale-up 的“大脑”。
+
 ## 发表
 
 2025: **HMAD: Advancing E2E Driving with Anchored Offset Proposals and Simulation-Supervised Multi-target Scoring**, *https://arxiv.org/abs/2505.23129 (technical report of CVPR2025 AGC e2e driving track)*. <br>
