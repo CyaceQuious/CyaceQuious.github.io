@@ -2,29 +2,29 @@
 
 ## 教育经历
 
-### Since 08/2023
+### 2023.08 至今
 
-*Bachelor of **Information and Computing Science** (Expected 2027)*, Zhili College, Tsinghua University
+清华大学 | 致理书院，信息与计算科学 | 本科生
 
-**Current GPA: 3.98/4.0 Ranking: 1/30**
+**当前成绩（截至 2025.08）: 3.98/4.0 排名: 1/30**
 
-### 06/2025-08/2025
+### 2025.06 至 2025.08
 
-*Summer Sessions*, University of California, Berkeley
+加州大学伯克利分校 | 暑期学校
 
-**GPA: 4.00/4.0**
+**成绩: 4.00/4.0**
 
-## Research Experience
+## 科研经历
 
-### Since 2024/11
+### 2024.11 至今
 
-**Institute for AI Industry Research(AIR)**, Tsinghua University
+清华大学 | 智能产业研究院(AIR)
 
-Advised by Prof. Hao Zhao
+指导老师：赵昊
 
-- Co-developed a depth estimation diffusion model by fine-tuning FLUX.1-DEV, which significantly outperforms other diffusion models.
+- 通过微调 FLUX.1-DEV，共同开发了一个深度估计扩散模型，在表现上显著超过了其它同类模型.
 
-- Took part in CVPR2025 Autonomous Grand Challenge e2e driving track, winning the **3rd** place.
+- 参加了 CVPR2025 Autonomous Grand Challenge 的 e2e driving track, 获得**第三名**.
 
 ## 发表
 
@@ -33,23 +33,22 @@ Bin Wang, Pingjun Li, Jinkun Liu, Jun Cheng, Hailong Lei, **Yinze Rong**, Huan-a
 
 ## 奖励与奖学金
 
-2022: **Silver Medal at National Olympiad in Informatics**, *by China Computer Federation*.
+2022: 第三十九届全国青少年信息学奥林匹克竞赛 | **银牌**, *中国计算机学会*.
 
-2024: **National Scholarship**, *by Ministry of Education of China*.
+2024: **国家奖学金**, *教育部*.
 
-2024: **Scholarship for Academic Excellence**, by *Zhili College*.
+2024: **学业优秀奖学金**, *致理书院*.
 
-2025: **Member of 19th _Spark_ Project**, by *Tsinghua University*.
+2025: “科技创新，星火燎原”清华大学学生创新人才培养计划 | **十九期成员**, *清华大学*.
 ## 技能
 
-**Proficiency in English**: a TOEFL score of 104 tested on Feb 15, 2025.
+**英语**: 在 TOEFL 中获得 104 分（测试时间 2025.02.15）
 
-**General Programming**: Python, C/C++, Java, LaTeX.
+**编程**: Python, C/C++, Java, LaTeX.
 
 ## 杂项
 
-A student athlete in school's distance running team:
+清华大学中长跑二队的一名学生运动员:
 
-- Winning the runner-up of Tsinghua's 10*1000m relay race in 2024&2025.
-- Captain of Zhili College's athletics team in 2025.
-- Head of Sports Department of Zhili College Student Union.
+- 2024&2025: 在清华大学马约翰被万米接力比赛中连续两年获得亚军（其中第二年担任队长）.
+- 2025: 任致理书院田径队队长，致理学生会体育部负责人.
