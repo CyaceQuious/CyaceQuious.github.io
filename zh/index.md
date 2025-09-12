@@ -1,5 +1,7 @@
 # 个人简介
 
+<p> Tel: (+86)15715159408 | Email: rongyz23@mails.tsinghua.edu.cn </p>
+
 ## 教育经历
 
 ### 2023.08 至今

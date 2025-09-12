@@ -1,5 +1,7 @@
 # _Curriculum Vitae_
 
+<p> Tel: (+86)15715159408 | Email: 7pannious@gmail.com </p>
+
 ## Education
 
 ### Since 08/2023
