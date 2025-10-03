@@ -35,11 +35,13 @@ Bin Wang, Pingjun Li, Jinkun Liu, Jun Cheng, Hailong Lei, **Yinze Rong**, Huan-a
 
 ## Selected Awards and Fellowships
 
-2022: **Silver Medal at National Olympiad in Informatics**, *by China Computer Federation*.
+2022: **Silver Medal at National Olympiad in Informatics**, by *China Computer Federation*.
 
-2024: **National Scholarship**, *by Ministry of Education of China*.
+2024: **National Scholarship**, by *Ministry of Education of China*.
 
 2024: **Scholarship for Academic Excellence**, by *Zhili College*.
+
+2024: **Second Prize at (National) Regional College Students’ Physics Contest**, by *Beijing Physics Society*.
 
 2025: **Member of 19th _Spark_ Project**, by *Tsinghua University*.
 ## Skills
