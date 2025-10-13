@@ -41,7 +41,7 @@ Bin Wang, Pingjun Li, Jinkun Liu, Jun Cheng, Hailong Lei, **Yinze Rong**, Huan-a
 
 2024: **Scholarship for Academic Excellence**, by *Zhili College*.
 
-2024: **Second Prize at (National) Regional College Students’ Physics Contest**, by *Beijing Physics Society*.
+2024: **Second Prize at (National) Regional College Students' Physics Contest**, by *Beijing Physics Society*.
 
 2025: **Member of 19th _Spark_ Project**, by *Tsinghua University*.
 ## Skills
