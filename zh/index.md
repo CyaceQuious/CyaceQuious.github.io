@@ -36,14 +36,21 @@
 
 - 尝试让 VLA 智慧的学习推理间的频率，以应对长尾场景（突发变化）的挑战
 
----
+### 2025.09 至今
 
-我目前的研究兴趣在具身智能的控制和操作策略，致力于让 VLA 给机器人一个更具泛化性、可以 scale-up 的“大脑”。
+<p>清华大学 | TSAIL</p>
+
+指导老师：苏航
+
+- 聚焦于基于动作 latent 和世界模型的机器人精细操作，挖掘视频生成模型的卓越潜力.
 
 ## 发表
 
 2025: **HMAD: Advancing E2E Driving with Anchored Offset Proposals and Simulation-Supervised Multi-target Scoring**, *https://arxiv.org/abs/2505.23129 (technical report of CVPR2025 AGC e2e driving track)*. <br>
 Bin Wang, Pingjun Li, Jinkun Liu, Jun Cheng, Hailong Lei, **Yinze Rong**, Huan-ang Gao, Kangliang Chen, Xing Pan, Weihao Gu
+
+2026: **Motus: A Unified Latent Action World Model**, *CVPR 2026*. <br>
+Hongzhe Bi, Hengkai Tan, Shenghao Xie, Zeyuan Wang, Shuhe Huang, Haitian Liu, Ruowen Zhao, Yao Feng, Chendong Xiang, **Yinze Rong**, Hongyan Zhao, Hanyu Liu, Zhizhong Su, Lei Ma, Hang Su, Jun Zhu
 
 ## 奖励与奖学金
 
@@ -57,6 +64,10 @@ Bin Wang, Pingjun Li, Jinkun Liu, Jun Cheng, Hailong Lei, **Yinze Rong**, Huan-a
 
 2025: “科技创新，星火燎原”清华大学学生创新人才培养计划 / **十九期成员**, *清华大学*.
 
+2025: **国家奖学金**, *教育部*.
+
+2025: **体育优秀奖学金**, *致理书院*.
+
 ## 技能
 
 **英语**: 在 TOEFL 中获得 104 分（测试时间 2025.02.15）
@@ -68,4 +79,5 @@ Bin Wang, Pingjun Li, Jinkun Liu, Jun Cheng, Hailong Lei, **Yinze Rong**, Huan-a
 清华大学中长跑二队的一名学生运动员:
 
 - 2024&2025: 在清华大学马约翰被万米接力比赛中连续两年获得亚军（其中第二年担任队长）.
-- 2025: 任致理书院田径队队长，致理学生会体育部负责人.
+- 2025: 任致理书院田径队队长，致理书院学生会体育部负责人.
+- 2026: 致理书院学生会主席团成员.
