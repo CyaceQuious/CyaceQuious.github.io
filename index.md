@@ -34,7 +34,7 @@ Advised by Prof. Hao Zhao
 
 Advised by Prof. Hang Su
 
-- Featuring latent-action world-model grounded manipulation, especially leveraging the great potential of video generation models.
+- Featuring world-model grounded manipulation, especially leveraging the great potential of video generation models.
 
 ## Publications
 
