@@ -44,6 +44,16 @@
 
 - 聚焦于基于世界模型的机器人精细操作，挖掘视频生成模型的卓越潜力.
 
+## 实习
+
+### 2026.02 至今
+
+<p>北京 | 生数科技</p>
+
+部门：世界模型
+
+- 参与统一世界模型 MotuBrain 的研发，处理特定本体的数据-训练-部署闭环.
+
 ## 发表
 
 2025: **HMAD: Advancing E2E Driving with Anchored Offset Proposals and Simulation-Supervised Multi-target Scoring**, *https://arxiv.org/abs/2505.23129 (technical report of CVPR2025 AGC e2e driving track)*. <br>
