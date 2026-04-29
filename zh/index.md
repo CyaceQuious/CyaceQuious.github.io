@@ -28,7 +28,7 @@
 
 - 参加了 CVPR2025 Autonomous Grand Challenge 的 e2e driving track, 获得**第三名**.
 
-### 2024.06-2025.08
+### 2025.06-2025.08
 
 <p>加州大学伯克利分校 | MSC lab</p>
 
