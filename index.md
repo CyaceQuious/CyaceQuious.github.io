@@ -1,6 +1,6 @@
 # _Curriculum Vitae_
 
-<p> Tel: (+86)15715159408 | Email: 7pannious@gmail.com </p>
+<p> Tel: (+86)15715159408 | Email: rongyz23@mails.tsinghua.edu.cn </p>
 
 ## Education
 
@@ -36,6 +36,16 @@ Advised by Prof. Hang Su
 
 - Featuring world-model grounded manipulation, especially leveraging the great potential of video generation models.
 
+## Internships
+
+### Since 02/2026
+
+**Shengshu Technology**, Beijing
+
+World Model Department
+
+- Contributing to the development of the unified world model *MotuBrain*.
+
 ## Publications
 
 2025: **HMAD: Advancing E2E Driving with Anchored Offset Proposals and Simulation-Supervised Multi-target Scoring**, *https://arxiv.org/abs/2505.23129 (technical report of CVPR2025 AGC e2e driving track)*. <br>
@@ -43,6 +53,9 @@ Bin Wang, Pingjun Li, Jinkun Liu, Jun Cheng, Hailong Lei, **Yinze Rong**, Huan-a
 
 2026: **Motus: A Unified Latent Action World Model**, *CVPR 2026*. <br>
 Hongzhe Bi, Hengkai Tan, Shenghao Xie, Zeyuan Wang, Shuhe Huang, Haitian Liu, Ruowen Zhao, Yao Feng, Chendong Xiang, **Yinze Rong**, Hongyan Zhao, Hanyu Liu, Zhizhong Su, Lei Ma, Hang Su, Jun Zhu
+
+2026: **MotuBrain: An Advanced World Action Model for Robot Control**, *https://arxiv.org/abs/2604.27792 (technical report)*. <br>
+MotuBrain Team
 
 ## Selected Awards and Fellowships
 

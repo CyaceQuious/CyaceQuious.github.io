@@ -34,7 +34,7 @@
 
 指导老师：Masayoshi Tomizuka
 
-- 尝试让 VLA 智慧的学习推理间的频率，以应对长尾场景（突发变化）的挑战
+- 尝试在 real-time chunking 的推理过程中关注平滑性与感知频率的平衡，以应对环境突发变化的挑战
 
 ### 2025.09 至今
 
@@ -61,6 +61,9 @@ Bin Wang, Pingjun Li, Jinkun Liu, Jun Cheng, Hailong Lei, **Yinze Rong**, Huan-a
 
 2026: **Motus: A Unified Latent Action World Model**, *CVPR 2026*. <br>
 Hongzhe Bi, Hengkai Tan, Shenghao Xie, Zeyuan Wang, Shuhe Huang, Haitian Liu, Ruowen Zhao, Yao Feng, Chendong Xiang, **Yinze Rong**, Hongyan Zhao, Hanyu Liu, Zhizhong Su, Lei Ma, Hang Su, Jun Zhu
+
+2026: **MotuBrain: An Advanced World Action Model for Robot Control**, *https://arxiv.org/abs/2604.27792 (technical report)*. <br>
+MotuBrain Team
 
 ## 奖励与奖学金
 
